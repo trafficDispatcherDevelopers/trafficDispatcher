@@ -1,0 +1,260 @@
+Allerton	0
+Alley Pond Park	1
+Arden Heights	2
+Arlington	3
+Arrochar	4
+Arverne	5
+Astoria	6
+Bath Beach	7
+Battery Park City	8
+Bay Ridge	9
+Bay Terrace	10
+Bay Terrace| Staten Island	11
+Baychester	12
+Bayside	13
+Bayswater	14
+Bedford-Stuyvesant	15
+Belle Harbor	16
+Bellerose	17
+Belmont	18
+Bensonhurst	19
+Bergen Beach	20
+Bloomfield	21
+Boerum Hill	22
+Borough Park	23
+Breezy Point	24
+Briarwood	25
+Brighton Beach	26
+Broad Channel	27
+Bronx Park	28
+Bronxdale	29
+Brooklyn Heights	30
+Brownsville	31
+Bull's Head	32
+Bushwick	33
+Cambria Heights	34
+Canarsie	35
+Carroll Gardens	36
+Castle Hill	37
+Castleton Corners	38
+Central Park	39
+Charleston	40
+Chelsea	41
+Chelsea| Staten Island	42
+Chinatown	43
+City Island	44
+Civic Center	45
+Claremont Village	46
+Clason Point	47
+Clifton	48
+Clinton Hill	49
+Co-op City	50
+Cobble Hill	51
+College Point	52
+Columbia St	53
+Concord	54
+Concourse	55
+Concourse Village	56
+Coney Island	57
+Corona	58
+Country Club	59
+Crotona Park	60
+Crown Heights	61
+Cunningham Park	62
+Cypress Hills	63
+DUMBO	64
+Ditmars Steinway	65
+Dongan Hills	66
+Douglaston	67
+Downtown Brooklyn	68
+Dyker Heights	69
+East Elmhurst	70
+East Flatbush	71
+East Harlem	72
+East Morrisania	73
+East New York	74
+East Village	75
+Eastchester	76
+Edenwald	77
+Edgemere	78
+Elmhurst	79
+Eltingville	80
+Emerson Hill	81
+Far Rockaway	82
+Ferry Point Park	83
+Fieldston	84
+Financial District	85
+Flatbush	86
+Flatiron District	87
+Flatlands	88
+Floral Park	89
+Floyd Bennett Field	90
+Flushing	91
+Flushing Meadows Corona Park	92
+Fordham	93
+Forest Hills	94
+Forest Park	95
+Fort Greene	96
+Fort Hamilton	97
+Fort Wadsworth	98
+Fresh Meadows	99
+Freshkills Park	100
+Gerritsen Beach	101
+Glen Oaks	102
+Glendale	103
+Governors Island	104
+Gowanus	105
+Gramercy	106
+Graniteville	107
+Grant City	108
+Gravesend	109
+Great Kills	110
+Great Kills Park	111
+Green-Wood Cemetery	112
+Greenpoint	113
+Greenwich Village	114
+Grymes Hill	115
+Harlem	116
+Hell's Kitchen	117
+Highbridge	118
+Hollis	119
+Hollis Hills	120
+Holliswood	121
+Howard Beach	122
+Howland Hook	123
+Huguenot	124
+Hunts Point	125
+Inwood	126
+Jackson Heights	127
+Jamaica	128
+Jamaica Estates	129
+Jamaica Hills	130
+John F. Kennedy International Airport	131
+Kensington	132
+Kew Gardens	133
+Kew Gardens Hills	134
+Kingsbridge	135
+Kips Bay	136
+LaGuardia Airport	137
+Latourette Park	138
+Laurelton	139
+Lighthouse Hill	140
+Little Italy	141
+Little Neck	142
+Long Island City	143
+Longwood	144
+Lower East Side	145
+Manhattan Beach	146
+Marble Hill	147
+Marine Park	148
+Mariners Harbor	149
+Maspeth	150
+Melrose	151
+Middle Village	152
+Midland Beach	153
+Midtown	154
+Midwood	155
+Mill Basin	156
+Morningside Heights	157
+Morris Heights	158
+Morris Park	159
+Morrisania	160
+Mott Haven	161
+Mount Eden	162
+Mount Hope	163
+Murray Hill	164
+Navy Yard	165
+Neponsit	166
+New Brighton	167
+New Dorp	168
+New Dorp Beach	169
+New Springville	170
+NoHo	171
+Nolita	172
+North Brother Island	173
+North Riverdale	174
+Norwood	175
+Oakwood	176
+Olinville	177
+Ozone Park	178
+Park Hill	179
+Park Slope	180
+Parkchester	181
+Pelham Bay	182
+Pelham Bay Park	183
+Pelham Gardens	184
+Pleasant Plains	185
+Plum Beach	186
+Port Ivory	187
+Port Morris	188
+Port Richmond	189
+Prince's Bay	190
+Prospect Heights	191
+Prospect Park	192
+Prospect-Lefferts Gardens	193
+Queens Village	194
+Randall Manor	195
+Randall's Island	196
+Red Hook	197
+Rego Park	198
+Richmond Hill	199
+Richmondtown	200
+Ridgewood	201
+Rikers Island	202
+Riverdale	203
+Rockaway Beach	204
+Rockaway Park	205
+Roosevelt Island	206
+Rosebank	207
+Rosedale	208
+Rossville	209
+Schuylerville	210
+Sea Gate	211
+Sheepshead Bay	212
+Shore Acres	213
+Silver Lake	214
+SoHo	215
+Soundview	216
+South Beach	217
+South Brother Island	218
+South Ozone Park	219
+South Slope	220
+Springfield Gardens	221
+Spuyten Duyvil	222
+St. Albans	223
+St. George	224
+Stapleton	225
+Stuyvesant Town	226
+Sunnyside	227
+Sunset Park	228
+Theater District	229
+Throgs Neck	230
+Todt Hill	231
+Tompkinsville	232
+Tottenville	233
+Tremont	234
+Tribeca	235
+Two Bridges	236
+Unionport	237
+University Heights	238
+Upper East Side	239
+Upper West Side	240
+Van Cortlandt Park	241
+Van Nest	242
+Vinegar Hill	243
+Wakefield	244
+Washington Heights	245
+West Brighton	246
+West Farms	247
+West Village	248
+Westchester Square	249
+Westerleigh	250
+Whitestone	251
+Williamsbridge	252
+Williamsburg	253
+Willowbrook	254
+Windsor Terrace	255
+Woodhaven	256
+Woodlawn	257
+Woodrow	258
+Woodside	259
